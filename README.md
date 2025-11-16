@@ -14,7 +14,7 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/Jwqj3fOICbc?si=G2UeXlsB9tePVIZl)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [JsFiddle](https://jsfiddle.net/)
 ### Lección 2: Introducción a HTML (10 minutos)
@@ -31,23 +31,24 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/2sXwyXIyb_Q)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://youtu.be/J2gocXGFaSc)
 - **Enlace**: [Ver la lección](https://youtu.be/3Sja6X4sAVs)
 - **Enlace**: [Ver la lección](https://youtu.be/DpQoXke3Fgs)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- [www.responsabilidad-social.com](https://upc-pre-202520-1asi0730-7429-codelab.github.io/social-responsibility/)
+- [www.responsabilidad-social.com](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
 - **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://youtu.be/wnVfCkdYjSw?si=KPqIkfUceT72eY5W)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
 - **Todas las Actividades Prácticas**:
+
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
@@ -57,7 +58,7 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
-- 
+
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
