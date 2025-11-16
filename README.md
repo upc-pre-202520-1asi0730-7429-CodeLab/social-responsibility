@@ -1,9 +1,9 @@
 # Fundamentos de Desarrollo Web con HMTL, CSS y JavaScript
 
 ## Resumen del Curso
-
 Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No
 requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrome, Safary entre otros.
+
 **Duración total**: ~60 minutos
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
@@ -12,50 +12,59 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 **Repositorio de código fuente**: [https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
 
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+
+### Lección 1: ¿Qué es el desarrollo web? (3 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://youtu.be/Jwqj3fOICbc?si=G2UeXlsB9tePVIZl)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=Jwqj3fOICbc)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [JsFiddle](https://jsfiddle.net/)
-### Lección 2: Introducción a HTML (10 minutos)
+
+### Lección 2: Introducción a HTML (15 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/L1dOhc1gDEs)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
-### Lección 3: Añadir más elementos HTML (8 minutos)
+- **Práctica**: [Open CodePen](https://codepen.io/pen/?template=your-starter) 👈 **¡No necesitas registrarte!**
+- 
+### Lección 3: Añadir más elementos HTML (6 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=ZxiL61kLc0s)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡Comienza al instante!**
-### Lección 4: Introducción a CSS (12 minutos)
+- 
+### Lección 4: Introducción a CSS (9 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/2sXwyXIyb_Q)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://www.codechef.com/html-online-compiler) 👈 **¡No es necesario registrarse!**
+- 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://youtu.be/J2gocXGFaSc)
-- **Enlace**: [Ver la lección](https://youtu.be/3Sja6X4sAVs)
-- **Enlace**: [Ver la lección](https://youtu.be/DpQoXke3Fgs)
+- **Enlace Parte 1 (HTML)**: [Ver la lección](https://youtu.be/J2gocXGFaSc)
+- **Enlace Parte 2 (CSS)**: [Ver la lección](https://youtu.be/3Sja6X4sAVs)
+- **Enlace Parte 3 (JAVASCRIPT)**: [Ver la lección](https://youtu.be/DpQoXke3Fgs)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - [www.responsabilidad-social.com](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
 - **Proyecto Final**: [Crea tu Perfil](https://replit.com/) 👈 **¡Guarda y comparte!**
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+
+### Lección 6: Consejos y Próximos Pasos (5 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://youtu.be/wnVfCkdYjSw?si=KPqIkfUceT72eY5W)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
 - **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad | Empezar a Programar |
-|----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/) |
-| 5 | Página de perfil | [Replit](https://replit.com/) |
+| Lección # | Actividad              | Plataforma            |
+|----------|-------------------------|------------------------|
+| 1        | Explorar Sitios Web     | [CodePen](https://codepen.io/) |
+| 2        | Primera Página HTML     | [CodePen](https://codepen.io/) |
+| 3        | Añadir Imágenes         | [JSFiddle](https://jsfiddle.net/) |
+| 4        | Estilo de la Página     | [CodeChef](https://www.codechef.com/html-online-compiler) |
+| 5        | Página de Perfil        | [Replit](https://replit.com/) |
+- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- Compartir: #WebDevBeginners
 
 **¡Gracias por completar el curso!**
 ---
@@ -64,7 +73,7 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202520
 1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
+NRC [7429]
 **Nombre del equipo**: HostelManagers
 **Líder del equipo**: Bautista Rivera, Jose Diego
 **Integrantes del equipo**: 
