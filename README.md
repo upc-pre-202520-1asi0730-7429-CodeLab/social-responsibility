@@ -39,7 +39,7 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 - **Enlace**: [Ver la lección](https://youtu.be/DpQoXke3Fgs)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - [www.responsabilidad-social.com](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://replit.com/) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://youtu.be/wnVfCkdYjSw?si=KPqIkfUceT72eY5W)
