@@ -51,13 +51,11 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
-
-- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/) |
+| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/) |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/) |
+| 5 | Página de perfil | [Replit](https://replit.com/) |
 
 **¡Gracias por completar el curso!**
 ---
