@@ -95,7 +95,7 @@ NRC [7429]
 
 ## Nuestra Web deployada en la nube
 
-[www.responsabilidad-social.com](https://upc-pre-202520-1asi0730-7429-codelab.github.io/social-responsibility/)
+[www.responsabilidad-social.com](https://upc-pre-202520-1asi0730-7429-codelab.github.io/webdev-course-hostelmanager/)
 
 <img width="693" height="798" alt="Image" src="https://github.com/user-attachments/assets/6a5f5b37-b61d-4cc4-9377-77aca37843e2" />
 
