@@ -24,7 +24,7 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=ZxiL61kLc0s)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS (12 minutos)
