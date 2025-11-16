@@ -9,7 +9,7 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**Repositorio de código fuente**: [https://github.com/yourusername/webdev-course-teamname](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
+**Repositorio de código fuente**: [https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
 
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
@@ -67,9 +67,14 @@ Período 202520
 1ASI0730 Aplicaciones Web
 NRC [Número de NRC]
 **Nombre del equipo**: HostelManagers
-**Líder del equipo**: [Nombres y Apellidos del líder]
+**Líder del equipo**: Bautista Rivera, Jose Diego
 **Integrantes del equipo**: 
-- Velarde Gonzales, Néstor Hernán
+- Velarde Gonzales, Néstor Hernán - u20211c221
+- Bautista Rivera, Jose Diego - u202310949
+- Curi Marcelo, Angelo Marcio - u202022387
+- Janampa Gutierrez, Jhoan Darner - u202323319
+- Quiroz Caceres, Adrian Alonso - u202214864
+  
 **Fecha de entrega**: 15/11/25
 
 ## Tecnologías
@@ -85,3 +90,5 @@ NRC [Número de NRC]
 [www.responsabilidad-social.com](https://upc-pre-202520-1asi0730-7429-codelab.github.io/social-responsibility/)
 
 <img width="693" height="798" alt="Image" src="https://github.com/user-attachments/assets/6a5f5b37-b61d-4cc4-9377-77aca37843e2" />
+
+![Angular](https://skillicons.dev/icons?i=html,css,js,github)
