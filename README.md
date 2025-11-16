@@ -8,32 +8,37 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+
+**Repositorio de código fuente**: [https://github.com/yourusername/webdev-course-teamname](https://github.com/upc-pre-202520-1asi0730-7429-CodeLab/webdev-course-hostelmanager)
+
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Empieza a programar**: [JsFiddle](https://jsfiddle.net/)
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/L1dOhc1gDEs)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/2sXwyXIyb_Q)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/J2gocXGFaSc)
+- **Enlace**: [Ver la lección](https://youtu.be/3Sja6X4sAVs)
+- **Enlace**: [Ver la lección](https://youtu.be/DpQoXke3Fgs)
 - **Consejos clave**: Aplicar estilos y depurar errores.
+- [www.responsabilidad-social.com](https://upc-pre-202520-1asi0730-7429-codelab.github.io/social-responsibility/)
 - **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -50,8 +55,9 @@ requiere descargas!** Solo abre tu navegador web de preferencia sea Google Chrom
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
-- Compartir: #WebDevBeginners
+- 
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
@@ -60,15 +66,11 @@ Carrera de Ingeniería de Software
 Período 202520
 1ASI0730 Aplicaciones Web
 NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
+**Nombre del equipo**: HostelManagers
 **Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
-
-
-# Descripción del Proyecto
-
-Nuestra Web promueve la conciencia sobre el cuidado del medio ambiente. Fue diseñada usando HTML, CSS y JavaScript básico, estructurada en varias secciones: un encabezado con título, imagen ilustrativa en el hero, tarjetas informativas sobre acciones ecológicas, y un footer legal.
+**Integrantes del equipo**: 
+- Velarde Gonzales, Néstor Hernán
+**Fecha de entrega**: 15/11/25
 
 ## Tecnologías
 
